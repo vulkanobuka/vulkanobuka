@@ -1,3 +1,9 @@
+<a href="https://vulkanznanje.rs/">
+         <p align="center">
+         <img width="400" height="187" src="https://user-images.githubusercontent.com/61086486/111877382-70330b00-89a3-11eb-9d19-887bd1919bfc.png">
+         </p>
+         </a>
+         
 # Autori i realizatori obuke
 
 **Др Милош Папић, ванр. проф.**<br/>
@@ -21,13 +27,6 @@
 :scroll: https://www.linkedin.com/in/zoranlukovic/ <br/>
 :scroll: https://www.facebook.com/zoran.lukovic.71/ <br/>
 :e-mail: zoran.lukovic@gmail.com <br/>
-
-<a href="https://vulkanznanje.rs/">
-         <p align="center">
-         <img width="400" height="187" src="https://user-images.githubusercontent.com/61086486/111877382-70330b00-89a3-11eb-9d19-887bd1919bfc.png">
-         </p>
-         </a>
-         
 
 <p align="left">
        <a href="https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876944-437df400-89a1-11eb-95b5-acae1bba8043.png" alt="Youtube"></a>
