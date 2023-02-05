@@ -7,12 +7,8 @@
 # Аутори и реализатори обуке
 
 **Др Милош Папић, ванр. проф.**<br/>
-:office: Факултет техничких наука у Чачку <br/>
-:computer: http://www.ftn.kg.ac.rs/milos.papic <br/>
-:scroll: https://www.researchgate.net/profile/Milos-Papic-2 <br/>
-:scroll: https://www.linkedin.com/in/milospapic/ <br/>
-:scroll: https://www.facebook.com/miloshpapitj/ <br/>
-:e-mail: milos.papic@ftn.kg.ac.rs <br/>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sadsad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sadsad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sadsad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/sadsad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](sadsad)  
+
 
 **Далибор Чукљевић, професор технике и информатике**<br/>
 :office: OШ "Др Драгиша Мишовић" у Чачку <br/>
